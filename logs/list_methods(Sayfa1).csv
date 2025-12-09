@@ -1,0 +1,12 @@
+L?STE METODLARI;A�IKLAMASI
+list.append(object);parantez i�erisindeki nesneyi listenin sonuna ekler
+list.clear();liste i�erisindeki her nesneyi siler
+list.copy();listenin kopyas?n? olu?turur
+list.count(value);liste i�erisinde parantez i�erisindeki de?erin ka� kez d�nd�?�n� s�yler
+list.extend(iterable);ba?ka liste,tuple,s�zl�k gibi yap?lar? �zerine eklemek i�in kullan?l?r
+list.index(value,start=int=0,stop=int);liste i�erisinde de?er varm? yok varsa ka�?nc? indexte yoksa hata verir
+list.insert(index,object);liste i�erisinde belirtilen index e nesneyi ekler s?ralamay? ona g�re kayd?r?r
+list.pop(index=-1);listeden eleman siler default olarak son eleman
+list.remove(value);listede i�ine girilen de?eri ilk g�rd�?� yerde siler de?er yoksa hata d�nd�r�r
+list.reverse();listeyi ayn? ?ekil tersine �evirir
+list.sort(reverse=bool);listeyi i�indeki de?ere g�re s?ralar \n false:Artan s?ralama True=Azalan s?ralama
