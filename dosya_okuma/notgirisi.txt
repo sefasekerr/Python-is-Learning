@@ -1,0 +1,4 @@
+sefa şeker : 80,80,90
+hiranur salak : 80,40,30
+salak hiranur : 20,30,10
+gamze arslan : 70,60,30

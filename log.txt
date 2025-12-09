@@ -1,0 +1,25 @@
+20---saat
+<attribute 'minute' of 'datetime.datetime' objects>-dakika
+<attribute 'second' of 'datetime.datetime' objects>-saniye
+20---saat
+59-dakika
+48-saniye
+21---saat
+0-dakika
+0-saniye
+21---saat
+0-dakika
+2-saniye
+21---saat
+0-dakika
+23-saniye
+21---saat
+9-dakika
+43-saniye
+21---saat
+29-dakika
+35-saniye
+<built-in method time of datetime.datetime object at 0x00000199F9A65560>
+21---saat
+29-dakika
+51-saniye

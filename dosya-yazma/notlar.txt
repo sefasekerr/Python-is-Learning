@@ -1,0 +1,3 @@
+sefa şeker isimli öğrencinin notları : 50, 80, 90 
+sefa şek isimli öğrencinin notları : 80, 90, 100 
+sefa  c6h12o6 isimli öğrencinin ortalaması : 90, 95, 99 

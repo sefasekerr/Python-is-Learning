@@ -1,0 +1,135 @@
+2025-12-09 20:49:21.587225 - satt
+2025-12-09 20:49:26.610497 - satt
+2025-12-09 20:49:27.643712 - satt
+2025-12-09 20:49:28.358852 - satt
+<attribute 'hour' of 'datetime.datetime' objects>---saat
+<attribute 'hour' of 'datetime.datetime' objects>---saat
+<attribute 'minute' of 'datetime.datetime' objects>-dakika
+<attribute 'second' of 'datetime.datetime' objects>-saniye
+<attribute 'hour' of 'datetime.datetime' objects>---saat
+<attribute 'minute' of 'datetime.datetime' objects>-dakika
+<attribute 'second' of 'datetime.datetime' objects>-saniye
+<attribute 'second' of 'datetime.datetime' objects>---saat
+<attribute 'minute' of 'datetime.datetime' objects>-dakika
+<attribute 'second' of 'datetime.datetime' objects>-saniye
+21---saat
+1-dakika
+44-saniye
+21---saat
+1-dakika
+52-saniye
+21---saat
+4-dakika
+10-saniye
+21---saat
+9-dakika
+23-saniye
+21---saat
+9-dakika
+25-saniye
+<built-in method time of datetime.datetime object at 0x000002E5D3D65560>
+21---saat
+30-dakika
+8-saniye
+21:31:46.462033
+21---saat
+31-dakika
+46-saniye
+21:34:26
+21---saat
+34-dakika
+26-saniye
+21:34
+21---saat
+34-dakika
+37-saniye
+21:38 iyi gün geçir kendini odaklan bu asalak gibi olma (hiranuru işaret ettim)
+ 21---saat
+38-dakika
+15-saniye
+21:38 iyi gün geçir kendini odaklan bu asalak gibi olma (hiranuru işaret ettim)
+ 21---saat
+38-dakika
+32-saniye
+21:38 iyi gün geçir kendini odaklan bu asalak gibi olma (hiranuru işaret ettim)
+ 21---saat
+38-dakika
+57-saniye
+23---saat
+1-dakika
+58-saniye
+23---saat
+2-dakika
+0-saniye
+23---saat
+2-dakika
+1-saniye
+23---saat
+2-dakika
+2-saniye
+23---saat
+2-dakika
+2-saniye
+23---saat
+2-dakika
+3-saniye
+23---saat
+2-dakika
+3-saniye
+23---saat
+2-dakika
+3-saniye
+23---saat
+2-dakika
+3-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+4-saniye
+23---saat
+2-dakika
+5-saniye
+23---saat
+2-dakika
+5-saniye
+23---saat
+2-dakika
+5-saniye
+23---saat
+2-dakika
+14-saniye
+23---saat
+2-dakika
+14-saniye
+23---saat
+2-dakika
+14-saniye
+23---saat
+2-dakika
+14-saniye
+23---saat
+2-dakika
+14-saniye
+23---saat
+2-dakika
+15-saniye
+23---saat
+2-dakika
+15-saniye
+23---saat
+2-dakika
+15-saniye

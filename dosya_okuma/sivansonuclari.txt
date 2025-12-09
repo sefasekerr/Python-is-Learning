@@ -1,0 +1,4 @@
+sefa şeker  isimli öğrencinin ort: 83.33333333333333
+hiranur salak  isimli öğrencinin ort: 50.0
+salak hiranur  isimli öğrencinin ort: 20.0
+gamze arslan  isimli öğrencinin ort: 53.333333333333336

@@ -1,0 +1,1 @@
+file.write(f"{ad} {soyad} : {int(not1)},{int(not2)},{int(not3)}\n")
