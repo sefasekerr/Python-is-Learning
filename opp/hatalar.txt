@@ -1,0 +1,15 @@
+5.0
+596.0
+could not convert string to float: 'ı'
+could not convert string to float: 'cgh'
+could not convert string to float: 'fym'
+could not convert string to float: 'gjm'
+could not convert string to float: 'hnf'
+could not convert string to float: 'ıkmu'
+could not convert string to float: 'kgn'
+could not convert string to float: 'vhn'
+could not convert string to float: 'jmgnd '
+could not convert string to float: 'fyjxhb'
+could not convert string to float: 'kömj'
+could not convert string to float: 'yhyxb'
+could not convert string to float: 'hkmjn'

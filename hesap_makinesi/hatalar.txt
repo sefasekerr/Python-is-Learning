@@ -1,0 +1,7 @@
+invalid literal for int() with base 10: 'sgb'invalid literal for int() with base 10: 'dnun'invalid literal for int() with base 10: 'sgby'
+invalid literal for int() with base 10: '7loky'
+invalid literal for int() with base 10: 'oul'
+sıfıra bölme hatası
+sıfıra bölme hatası
+invalid literal for int() with base 10: '*51'
+invalid literal for int() with base 10: 'c d'

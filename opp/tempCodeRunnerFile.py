@@ -1,0 +1,1 @@
+giris = int(input("giriş yapın: "))
