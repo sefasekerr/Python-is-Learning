@@ -32,6 +32,10 @@
     <td>For the past 4 days, I finished working on the file and took a break because an idea came to my mind; the idea that came to me is this: to set up a fully automatic reels content creation automation system using "openai" in Python. It sort of worked, though I ran into some errors; I couldn't get it to do voiceovers and create visuals at the same time. But I haven't forgotten this idea; I’ll continue. In the meantime, I created something similar on the "n8n.io" site, and it's working pretty well; I’m even posting on Instagram hahahaha. Anyway, the more I learn, the deeper I want to dive into it. Whenever I get errors, I spend hours trying to fix them without realizing it, and I feel really happy when I solve the problem. Anyway, my goal this month is to master Python, and next month, I want to start learning Java.</td>
     
   </tr>
+  <tr>
+    <th>Day 10 </th>
+    <td>Today, the online course I took for intermediate-level Python ended. Now I can do some things directly, but I will continue to develop and add on to it because, as Rocky said, 'your biggest opponent is yourself from yesterday.' Even if I know just one more word than yesterday, I am the one who benefits. We should always work to get better.</td>
+  </tr>
 </table>](url)
 
 ## 🔗 Bağlantılar
