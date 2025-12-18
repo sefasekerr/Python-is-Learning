@@ -41,6 +41,10 @@
     <th>Day 17 </th>
     <td>I think I slacked off a bit this week, but I'm trying to learn both SQL and Python. I spend 6 hours a day on Python and 2 hours on SQL. Hopefully, I'll learn both languages before the end of this month.</td>
   </tr>
+   <tr>
+    <th>Day 18 </th>
+    <td>Today I completed my first project. It pulls menu items from a txt file, and if I want, I can add or delete items. I will further improve this with a GUI once I learn 'tkinter'. It's 4:23 AM, I had been thinking about this for exactly 3 hours, I decided to do it and I did, and I'm not tired at all; in fact, I'm so happy I want to run outside, but my hip is broken ahahahah.</td>
+  </tr>
 </table>](url)
 
 ## 🔗 Bağlantılar
