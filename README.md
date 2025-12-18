@@ -53,3 +53,8 @@
    style="background:green; color:white; padding:10px; border-radius:5px; text-decoration:none;">
    👉 GitHub Profilim
 </a>
+<a href="https://github.com/sefasekerr/Python-is-Learning/blob/master/algoritma.py"
+style="background:green; color:white; padding:10px; border-radius:5px; text-decoration:none;">
+👉 ilk projem
+</a>
+
