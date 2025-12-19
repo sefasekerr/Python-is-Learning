@@ -45,6 +45,10 @@
     <th>Day 18 </th>
     <td>Today I completed my first project. It pulls menu items from a txt file, and if I want, I can add or delete items. I will further improve this with a GUI once I learn 'tkinter'. It's 4:23 AM, I had been thinking about this for exactly 3 hours, I decided to do it and I did, and I'm not tired at all; in fact, I'm so happy I want to run outside, but my hip is broken ahahahah.</td>
   </tr>
+   <tr>
+    <th>Day 19 </th>
+    <td>This week I started a new course on coursera.org. There was a 1-week free trial, so I signed up. Honestly, the person explaining the course teaches the topic along with the reasoning behind it, and at the end of each module, it's reinforced with exercises, coding, and assignments. But after the 1-week trial, they want $30, and I don't have that much money right now. I want to continue even if it means going into debt, but I'm not sure. Right now it's 5:23, and I haven't been able to sleep until now, so I thought I'd study.</td>
+  </tr>
 </table>](url)
 
 ## 🔗 Bağlantılar
