@@ -1,0 +1,3 @@
+Item name : telefon , Item price : 50000 , Item quantity : 2
+Item name : bilgisayar , Item price : 25000 , Item quantity : 1
+Item name : şarj , Item price : 500 , Item quantity : 2

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Dijital Saat</title>
+<style>
+    body {
+        background-color: #222;
+        color: #00ffcc;
+        font-family: 'bold' monospace;
+        text-align: center;
+        margin-top: 20%;
+    }
+    #clock {
+        font-size: 60px;
+        letter-spacing: 3px;
+    }
+    #date {
+        font-size: 24px;
+        color: #ccc;
+    }
+</style>
+</head>
+<body>
+
+<div id="clock"></div>
+<div id="date"></div>
+
+<script>
+/**
+ * Dijital saat ve tarih gösteren fonksiyon
+ */
+function updateClock() {
+    try {
+        const now = new Date();
+
+        // Saat, dakika, saniye
+        let hours = now.getHours().toString().padStart(2, '0');
+        let minutes = now.getMinutes().toString().padStart(2, '0');
+        let seconds = now.getSeconds().toString().padStart(2, '0');
+
+        // Tarih formatı: Gün/Ay/Yıl
+        let day = now.getDate().toString().padStart(2, '0');
+        let month = (now.getMonth() + 1).toString().padStart(2, '0');
+        let year = now.getFullYear();
+
+        // HTML'e yazdır
+        document.getElementById('clock').textContent = `${hours}:${minutes}:${seconds}`;
+        document.getElementById('date').textContent = `${day}.${month}.${year}`;
+    } catch (error) {
+        console.error("Saat güncellenirken hata oluştu:", error);
+    }
+}
+
+// İlk çalıştırma
+updateClock();
+
+// Her 1 saniyede bir güncelle
+setInterval(updateClock, 1000);
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
