@@ -1,6 +1,6 @@
 import vonage
 
-client = vonage.Client(key="e026e679", secret="rS9NDzxMqDXNBOUNFyYspb4QneUMVd61gJjbVDQLsUGlYmEdBR")
+")
 sms = vonage.Sms(client)
 
 responseData = sms.send_message({
