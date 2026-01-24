@@ -63,4 +63,16 @@ def counter(start,stop):
         
 #     except StopIteration:
 #         break
-    
+print(
+f"________________________\n"
+f"|      *base word      |\n"
+f"|                      |\n"
+f"|      >helper word    |\n"
+f"|      >helper word    |\n"
+f"|      >helper word    |\n"
+f"|      >helper word    |\n"
+f"|                      |\n"
+f"|                      |\n"
+f"|                      |\n"
+f"‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\n"
+)

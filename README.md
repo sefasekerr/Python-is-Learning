@@ -49,7 +49,11 @@
     <th>Day 19 </th>
     <td>This week I started a new course on coursera.org. There was a 1-week free trial, so I signed up. Honestly, the person explaining the course teaches the topic along with the reasoning behind it, and at the end of each module, it's reinforced with exercises, coding, and assignments. But after the 1-week trial, they want $30, and I don't have that much money right now. I want to continue even if it means going into debt, but I'm not sure. Right now it's 5:23, and I haven't been able to sleep until now, so I thought I'd study.</td>
   </tr>
-</table>](url)
+  <tr>
+  <th> day 58 </th>
+  <td>I hadn't committed anything for about a month because the more I learned this language, the more I realized how much I didn't know. As I learned a piece of information, I would research it to learn it in depth, and honestly, I became very interested in topics like data analysis, science, and deep learning. Also, I'm working on creating my own AI bot using semantic search with the 'vector' concept introduced in SQL Server 2025. Finding the information to save in the database is quite challenging, but I'm almost there. I can now use Python at an intermediate-advanced level, and by learning the powerful libraries of this language more deeply, I can start developing projects.</td>
+  </tr>
+</table>
 
 ## 🔗 Bağlantılar
 
